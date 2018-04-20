@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="calendar_bg_color">#3F51B5</color>
+    <color name="holiday_text_color">#303F9F</color>
+    <color name="select_circle_color">#FF4081</color>
+    <color name="colorBackground">#F0F1F5</color>
+</resources>
